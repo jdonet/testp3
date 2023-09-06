@@ -1,11 +1,12 @@
 {
-  "name": "my-package",
+  "name": "entreprises-sherbrooke",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "release": "release-it"
+    "release": "dotenv release-it"
   },
   "devDependencies": {
+    "dotenv-cli": "^7.3.0",
     "release-it": "^16.1.0"
   }
 }
