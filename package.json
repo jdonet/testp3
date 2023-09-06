@@ -7,8 +7,5 @@
   },
   "devDependencies": {
     "release-it": "^16.1.0"
-  },
-  "npm": {
-    "publish": false
   }
 }
